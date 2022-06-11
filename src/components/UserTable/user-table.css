@@ -1,0 +1,23 @@
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+th,
+td {
+    padding: 5px 10px;
+}
+
+thead {
+    background-color: #888;
+}
+
+th {
+    transition: 0.2s;
+}
+
+th:hover {
+    color: white;
+    background-color: #666;
+}
